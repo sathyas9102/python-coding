@@ -1,5 +1,4 @@
 # 1 -------------wap to check given no is even or odd .If it is even print square number else print cube of the number..----
-from struct import pack_into
 
 # num=int(input('Enter the No : '))
 # if num%2==0:
@@ -52,6 +51,7 @@ from struct import pack_into
 #     print('bye')
 
 # 6--wap to print the given character string first letter ascii value is even o odd (without type casting)---
+
 # ch=input('enter the string : ')
 # s=ord(ch[0])
 # print(s)
@@ -69,6 +69,7 @@ from struct import pack_into
 #     print('special character')
 
 # 8--wap to convert the middle letter into upper if it is lower else print first letter of the word.
+
 # ch=input('Enter the character : ')
 # s=len(ch)//2
 # if ch[s].islower():
@@ -77,6 +78,7 @@ from struct import pack_into
 #     print(ch[0])
 
 # 9--wap to check if the given number is zero--
+
 # num=int(input('Enter the No : '))
 # if num==0:
 #     print('The Given Number is Zero ')
@@ -84,6 +86,7 @@ from struct import pack_into
 #     print('The Given Number is Not Zero')
 
 # 10--wap to check whether the first number is divisible by the second number--
+
 # num1=int(input('Enter the Number 1 : '))
 # num2=int(input('Enter the Number 2 : '))
 # if num1%num2 ==0:
